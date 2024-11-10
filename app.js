@@ -1,1 +1,1 @@
-window.alert("testing");
+console.log("testing");
